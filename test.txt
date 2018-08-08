@@ -1,1 +1,2 @@
 Hello file from project1
+With conflict resolved
